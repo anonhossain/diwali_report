@@ -2,7 +2,7 @@
 
 **End-to-end Exploratory Data Analysis** on Diwali Sales dataset with Python and interactive Power BI visualizations.
 
-![Dashboard Preview](BI.PNG)
+![Dashboard Preview](result/BI.PNG)
 
 ## 📋 Project Overview
 
