@@ -4,13 +4,11 @@
 
 ![Dashboard Preview](result/BI.PNG)
 
-## 📋 Project Overview
+## Project Overview
 
 This project analyzes **28K+ Diwali sales orders** to uncover customer behavior, regional performance, product trends, and revenue insights. The goal was to deliver actionable business recommendations through clean data processing and compelling visualizations.
 
-**Live Dashboard**: [Diwali Sales Power BI](Diwali_Sales_Analysis.pbix) *(open with Power BI Desktop)*
-
-## ✨ What I Did
+## What I Did
 
 - Performed complete **data cleaning and preprocessing** on raw sales data (11251 rows × 15 columns).
 - Conducted **in-depth Exploratory Data Analysis (EDA)** focusing on demographics, geography, occupation, and product categories.
@@ -18,7 +16,7 @@ This project analyzes **28K+ Diwali sales orders** to uncover customer behavior,
 - Built an **interactive Power BI dashboard** with KPIs, trends, and filters for business stakeholders.
 - Derived **key insights and business recommendations** to improve future sales performance.
 
-## 🛠 High-Level Coding & Techniques Used
+## High-Level Coding & Techniques Used
 
 - **Data Loading & Inspection**: `pandas` for reading CSV, `df.shape`, `df.info()`, `df.describe()`
 - **Data Cleaning**:
@@ -34,7 +32,7 @@ This project analyzes **28K+ Diwali sales orders** to uncover customer behavior,
   - Advanced styling and figure sizing for professional look
 - **Dashboard**: Power BI with DAX measures, slicers, and multiple chart types (Donut, Line, Bar, Cards)
 
-## 📊 Key Insights
+## Key Insights
 
 - **Highest Revenue**: Central Zone (₹42M)
 - **Top Age Group**: 26-35 years (especially females)
@@ -43,7 +41,7 @@ This project analyzes **28K+ Diwali sales orders** to uncover customer behavior,
 - **Best Selling Category**: Food, Clothing & Apparel, Electronics & Gadgets
 - **Top States**: Uttar Pradesh, Maharashtra, Karnataka
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Focus marketing on **married women aged 26-35** in Tier-1 & Tier-2 states.
 - Increase product assortment in **Food, Clothing & Electronics** categories.
@@ -51,10 +49,10 @@ This project analyzes **28K+ Diwali sales orders** to uncover customer behavior,
 - Run zone-specific campaigns, especially in Central & Southern regions.
 - Reduce inventory of low-performing categories (e.g., children’s products).
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization**: Power BI (DAX)
 - **Jupyter Notebook** for analysis and documentation
 
-## 📁 Repository Structure
+## Repository Structure
