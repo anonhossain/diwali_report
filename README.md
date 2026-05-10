@@ -54,5 +54,3 @@ This project analyzes **28K+ Diwali sales orders** to uncover customer behavior,
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization**: Power BI (DAX)
 - **Jupyter Notebook** for analysis and documentation
-
-## Repository Structure
